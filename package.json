@@ -62,7 +62,7 @@
     "cli-progress": "^3.11.2",
     "f": "^1.4.0",
     "fs": "0.0.1-security",
-    "glob": "^8.0.3",
+    "glob": "^11.0.3",
     "markdown-it": "^12.3.2",
     "reading-time": "^1.2.0",
     "slugify": "^1.6.5",
